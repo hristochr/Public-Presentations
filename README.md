@@ -19,6 +19,7 @@
 - 13.10.2020: 
   - Event: **dataMinds Connect 2020**
   - Title: **CATEGORICAL DATA ENCODING FOR REGRESSION MODELS**
+  - [link](https://github.com/hristochr/Public-Presentations/tree/main/Categorical%20Data%20Encoding%20For%20Regression%20Models)
      
   <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/Categorical%20Data%20Encoding%20For%20Regression%20Models/Hristo%20Hristov.PNG" alt="session poster" width="400"/>
 
