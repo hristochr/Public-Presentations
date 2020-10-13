@@ -3,6 +3,7 @@
 - 26.11.2017
   - Event: **seminar @ SoftUni Bulgaria**
   - Title: **Blockchain as a Database: Limitations and Opportunities**
+  - [link](https://github.com/hristochr/Public-Presentations/tree/main/Blockchain%20as%20a%20Database)
   
 - 22.02.2018
   - Event: **seminar @ Dev.BG**
@@ -20,7 +21,7 @@
   - Event: **dataMinds Connect 2020**
   - Title: **CATEGORICAL DATA ENCODING FOR REGRESSION MODELS**
   - [link](https://github.com/hristochr/Public-Presentations/tree/main/Categorical%20Data%20Encoding%20For%20Regression%20Models)
-     
+  
   <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/Categorical%20Data%20Encoding%20For%20Regression%20Models/Hristo%20Hristov.PNG" alt="session poster" width="400"/>
 
   
