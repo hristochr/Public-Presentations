@@ -25,3 +25,5 @@
   <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/Categorical%20Data%20Encoding%20For%20Regression%20Models/Hristo%20Hristov.PNG" alt="session poster" width="400"/>
 
   
+### Got questions?
+Open an issue and I will reply soon.
