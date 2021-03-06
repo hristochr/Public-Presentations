@@ -19,11 +19,16 @@
 
 - 13.10.2020: 
   - Event: **dataMinds Connect 2020**
-  - Title: **CATEGORICAL DATA ENCODING FOR REGRESSION MODELS**
+  - Title: **Categorical Data Encoding for Regression Models**
   - [link](https://github.com/hristochr/Public-Presentations/blob/main/Categorical%20Data%20Encoding%20For%20Regression%20Models/Categorical%20Data%20Encoding%20for%20Regression%20Models.pdf)
   - [link to video](https://www.youtube.com/watch?v=qgZ35_pdQRM&feature=youtu.be)
   
   <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/Categorical%20Data%20Encoding%20For%20Regression%20Models/Hristo%20Hristov.PNG" alt="session poster" width="400"/>
+  
+- 13.03.2021
+  - Event: [**dataMinds Saturday BeLux 2021**] (https://datamindssaturday.be/)
+  - Title: **PowerApps, SharePoint & PowerBi: Better Together**
+  - links TBD
 
   
 ### Got questions?
