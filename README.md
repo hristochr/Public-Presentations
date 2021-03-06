@@ -30,6 +30,9 @@
   - Title: **PowerApps, SharePoint & PowerBi: Better Together**
   - links TBD
 
+
+  <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/PowerApps%2C%20SharePoint%20%26%20PowerBi%3A%20Better%20Together/Hristo%20Hristov%20-%20PowerApps%2C%20SharePoint%20%26%20PowerBi%20Better%20Together.jfif" alt="session poster" width="400"/>
+
   
 ### Got questions?
 Open an issue and I will reply soon.
