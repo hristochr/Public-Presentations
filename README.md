@@ -28,7 +28,8 @@
 - 13.03.2021
   - Event: [**dataMinds Saturday BeLux 2021**](https://datamindssaturday.be/)
   - Title: **PowerApps, SharePoint & PowerBi: Better Together**
-  - links TBD
+  - [link](https://github.com/hristochr/Public-Presentations/blob/cca6e528c62de5ce0dd4da23f68f8cc4fcdf2886/PowerApps,%20SharePoint%20&%20PowerBi:%20Better%20Together/PowerApps,%20SharePoint%20&%20PowerBi%20Better%20Together.pdf)
+  - link to video TBD
 
 
   <img src="https://raw.githubusercontent.com/hristochr/Public-Presentations/main/PowerApps%2C%20SharePoint%20%26%20PowerBi%3A%20Better%20Together/Hristo%20Hristov%20-%20PowerApps%2C%20SharePoint%20%26%20PowerBi%20Better%20Together.jfif" alt="session poster" width="400"/>
